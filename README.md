@@ -26,13 +26,12 @@ $ pm2 install pm2-couchdb
 
 ## Config
 
-The default connection details are :
-"protocol": "http"
-"hostname": "localhost"
-"port": 5984
-"username": "" // The module only uses authentication if username is not blank
-"password": ""
-
+The default connection details are :  
+"protocol": "http"  
+"hostname": "localhost"  
+"port": 5984  
+"username": "" // The module only uses authentication if username is not blank  
+"password": ""  
 
 To modify the config values you can use the commands:
 ```bash
