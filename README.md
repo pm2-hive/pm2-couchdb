@@ -7,10 +7,10 @@ CouchDB module for Keymetrics
 
 PM2 module to monitor key CouchDB server metrics:
 
-* 
-* 
-* 
-* 
+* DB Reads/Writes
+* Open Databases / Open Files
+* Max/Mean Request time
+* HTTP Requests / Bulk Requests / Auth Cache hits
 
 ## Requirements
 

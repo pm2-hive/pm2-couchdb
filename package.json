@@ -1,6 +1,6 @@
 {
   "name": "pm2-couchdb",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "PM2 CouchDB Module",
   "main": "app.js",
   "dependencies": {

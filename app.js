@@ -35,7 +35,7 @@ pmx.initModule({
       meta: true,
 
       // Custom metrics to put in BIG
-      main_probes: ['Open Databases', 'DB Reads', 'DB Writes','Mean Request Time','HTTP Requests']
+      main_probes: ['Open Databases', 'DB Reads', 'DB Writes','Mean Req. Time','HTTP Requests']
     }
 
   }
